@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmutuku-prof/cloudeng-cloudbuild.git"
+  },
+  "keywords": [
+    "cloud",
+    "build"
+  ],
+  "author": "ericmutuku-prof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmutuku-prof/cloudeng-cloudbuild/issues"
+  },
+  "homepage": "https://github.com/ericmutuku-prof/cloudeng-cloudbuild#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
